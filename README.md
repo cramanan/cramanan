@@ -16,4 +16,7 @@ Here is a list of languages & technologies that I know:
 |-|-|
 | [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="French Flag" width="100px" />](https://fr.wikipedia.org/wiki/Fran%C3%A7ais) | [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" alt="United States Flag" width="100px" />](https://en.wikipedia.org/wiki/English_language) [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" alt="Great Britain flag" width="100px" />](https://en.wikipedia.org/wiki/English_language) |
 
-<!--## Technologies 💻 ⚙️-->
+## Technologies 💻 ⚙️
+| Git | Docker |
+|-|-|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100px" alt="Git Logo"/>](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="100px" alt="Docker Logo"/>]() |
