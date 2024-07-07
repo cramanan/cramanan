@@ -21,7 +21,7 @@ Here is a list of languages & technologies that I know:
 |-|-|-|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80px" alt="Git Logo"/>](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80px" alt="Docker Logo"/>]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="80px" alt="SQLite Logo"/>](https://sqlite.org/) |
 
-## Tools
+## Tools 🛠️
 | Adobe CC |
 |-|
 | [<img src="https://www.adobe.com/federal/assets/svgs/creative-cloud-40.svg" width="80px" alt="Creative Cloud Logo"/>](https://sqlite.org/) |
