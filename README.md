@@ -8,13 +8,9 @@ Here is a list of languages & technologies that I know:
 
 ## Languages 💻 👅
 
-| Golang | TypeScript / JavaScript | SASS / SCSS / CSS3 | HTML5 |
-|-|-|-|-|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="80px" alt="Golang Logo" />](https://go.dev/) |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80px" alt="TypeScript Logo" />](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80px" alt="JavaScript Logo" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass/Scss Logo" width="80px" />](https://sass-lang.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="80px" />](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="80px" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-| Python |
-|-|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80px" alt="Python Logo"/>](https://www.python.org/) |
+| Golang | TypeScript / JavaScript | SASS / SCSS / CSS3 | HTML5 | Python |
+|-|-|-|-|-|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="80px" alt="Golang Logo" />](https://go.dev/) |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80px" alt="TypeScript Logo" />](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80px" alt="JavaScript Logo" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass/Scss Logo" width="80px" />](https://sass-lang.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="80px" />](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="80px" />](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80px" alt="Python Logo"/>](https://www.python.org/) |
 
 | French (Native) | English |
 |-|-|
