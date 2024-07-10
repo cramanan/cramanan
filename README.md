@@ -6,7 +6,7 @@ I am a young programmer who enjoys coding very much. 😃
 
 Here is a list of languages & technologies that I know:
 
-## Languages 💻 👅
+## Languages 💻
 
 | Golang | TypeScript / JavaScript | SASS / SCSS / CSS3 | HTML5 | Python |
 |-|-|-|-|-|
