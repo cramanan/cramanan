@@ -6,15 +6,11 @@ I am a young programmer who enjoys coding very much. 😃
 
 Here is a list of languages & technologies that I know:
 
-## Languages 💻
+## Tech Stack 💻
 
-| Golang | TypeScript / JavaScript | SASS / SCSS / CSS3 | HTML5 | Python |
+| Golang | Python | TypeScript | SASS  | React |
 |-|-|-|-|-|
-| <div align="center"> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="60px" alt="Golang Logo" />](https://go.dev/) </div> | <div align="center"> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript Logo" />](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript Logo" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) </div> | <div align="center"> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass/Scss Logo" width="60px" />](https://sass-lang.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="60px" />](https://developer.mozilla.org/en-US/docs/Web/CSS) </div> | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="60px" />](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" alt="Python Logo"/>](https://www.python.org/) |
-
-| French (Native) | English |
-|-|-|
-| <div align="center"> [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="French Flag" width="60px" />](https://fr.wikipedia.org/wiki/Fran%C3%A7ais) </div> | [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" alt="United States Flag" width="60px" />](https://en.wikipedia.org/wiki/English_language) [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" alt="Great Britain flag" width="60px" />](https://en.wikipedia.org/wiki/English_language) |
+| <div align="center"> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="60px" alt="Golang Logo" />](https://go.dev/) </div> | <div align="center"> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" alt="Python Logo"/>](https://www.python.org/) </div> | <div align="center">  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript Logo" />](https://www.typescriptlang.org/) </div> |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass/Scss Logo" width="60px" />](https://sass-lang.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo"/>](https://react.dev/)
 
 ## Technologies 💻 ⚙️
 | Git | Docker | SQL |
