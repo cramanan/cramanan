@@ -1,6 +1,6 @@
 # ✨ Welcome to my Github Profile ✨
 
-I am a young programmer who enjoys coding very much. 😃
+I am a passionate programmer who enjoys coding very much. 😃
 
 🧠 I love learning and wish to discover as much languages & technologies as possible.
 
